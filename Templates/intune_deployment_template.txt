@@ -1,0 +1,9 @@
+INSTALL COMMAND:
+powershell.exe -ExecutionPolicy Bypass -File .\install.ps1
+
+UNINSTALL COMMAND:
+powershell.exe -ExecutionPolicy Bypass -File .\uninstall.ps1
+
+DETECTION RULE:
+Use Custom Script detection.
+Upload the included 'check.ps1' to Intune as the detection script.
