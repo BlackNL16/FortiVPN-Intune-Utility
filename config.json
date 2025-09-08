@@ -1,0 +1,22 @@
+[
+  {
+    "Name": "customer1",
+    "VPNProfile": "customer1",
+    "Version": "7.4.3.1790"
+  },
+  {
+    "Name": "customer2",
+    "VPNProfile": "customer2",
+    "Version": "7.4.2.1500"
+  },
+  {
+    "Name": "vpnuser",
+    "VPNProfile": "vpnuser",
+    "Version": "7.4.1.1200"
+  },
+  {
+    "Name": "exampleprofile",
+    "VPNProfile": "exampleprofile",
+    "Version": "7.4.*"
+  }
+]
